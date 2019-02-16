@@ -5,7 +5,6 @@
 - Uninstall the virtual environment： conda remove -n maskrcnn-benchmark --all
 
 ------
-
 unzip  .tar.gz ：      tar -zxvf xx.tar.gz                    unzip  .tar.bz2 ：    tar -jxvf xx.tar.bz2
 
 ------
@@ -14,3 +13,4 @@ Add available Tsinghua source
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+
