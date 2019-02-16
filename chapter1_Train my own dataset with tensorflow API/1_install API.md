@@ -36,24 +36,24 @@ Let’s do it !!!
 
 - This is my models directory, you can see that there are a lot of models I have downloaded.
 
-![1550331700607](1550331700607.png)
+![1550331700607](img/1550331700607.png)
 
 - Run the jupyter notebook in the ‘object_detection’ folder
 
 - You can change MODEL_NAME to specify a different model.
 
-  ![1550332898238](1550332898238.png)
+  ![1550332898238](img/1550332898238.png)
 
 - Set your image here
 
-![1550332832051](1550332832051.png)
+![1550332832051](img/1550332832051.png)
 
 - I ran several models, this is the result
 
   
 
-![img](psb.jpg)
+![img](img/psb.jpg)
 
-![img](psb-1550334099712.jpg)
+![img](img/psb-1550334099712.jpg)
 
-![img](psb-1550334119566.jpg)
+![img](img/psb-1550334119566.jpg)
