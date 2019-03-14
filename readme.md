@@ -5,3 +5,5 @@ Chapter0————We’d better operate the network model in a virtual environ
 Chapter1————Installation of the tensorflow API, making our own datasets, training tuning
 
 Chapter2————Installation of the YOLOv3, making our own datasets, training tuning
+
+Chapter3————Extend datasets with data enhancements
